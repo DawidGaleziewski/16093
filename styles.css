@@ -1,0 +1,16 @@
+*, *:before, *:after{
+    box-sizing: border-box;
+}
+
+.article__paragraph{
+    background-color: #ff8b6a;
+}
+
+.article__paragraph--secondary-color {
+    background-color: #480032;
+    color: white;
+}
+
+.article__paragraph--opacity {
+    opacity: 0.7;
+}
